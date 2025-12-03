@@ -1,21 +1,20 @@
-# ================================================================
-# PORTADA
-# ================================================================
-# Name: __________________________________________
-# Student ID (Matricula): _________________________
-# Group: __________________________________________
-#
-# File: matricula_ApellidoNombre.py
-# ================================================================
-#
-# EXECUTIVE SUMMARY
-# ------------------------------------------------
-# A CRUD system (Create, Read, Update, Delete) allows managing data
-# efficiently through basic operations on a storage structure. This
-# program implements an in-memory CRUD using a list of dictionaries
-# to store items like products. Using functions improves organization,
-# modularity, and maintainability. The program includes a menu,
-# validations, and all CRUD operations.
+#nombre: Jorge Candelario Carbajal Carrizales
+#matricula: 2530205
+#grupo: IM 1-2
+
+# Resumen Ejecutivo
+# --------------------------------------------------
+# Este programa implementa un CRUD (Create, Read, Update, Delete) en memoria
+# usando Python y funciones. CRUD permite gestionar datos de manera estructurada:
+# 'Create' para agregar nuevos elementos, 'Read' para consultar, 'Update' para
+# modificar y 'Delete' para eliminar. Se eligió una estructura de datos tipo 
+# diccionario (dict) por su rapidez en búsquedas y facilidad para usar claves únicas.
+# Cada operación CRUD se encapsula en funciones separadas, lo que facilita la
+# organización del código, la reutilización y la prueba de cada componente.
+# El programa incluye un menú interactivo que permite al usuario elegir la acción
+# a realizar, con validaciones de entradas y mensajes claros de resultado. Se
+# cubren operaciones de creación, lectura, actualización, eliminación y listado de
+# elementos, asegurando que el código sea robusto y fácil de mantener.
 
 
 # ================================================================
@@ -237,16 +236,13 @@ if __name__ == "__main__":
 # could be extended by adding file saving, databases, or more fields.
 
 
-# ================================================================
-# REFERENCES
-# ================================================================
-# 1) Python Documentation – Data structures (dict, list)
-# 2) Python Documentation – Defining functions
-# 3) Tutorials on Python CRUD systems and menu-driven programs
-
-
-# ================================================================
-# GITHUB REPOSITORY URL
-# ================================================================
-# Add your GitHub repo URL here:
-# https://github.com/_________________________
+# Referencias
+# --------------------------------------------------
+# 1. Python documentation – Data structures (dict, list)
+#    https://docs.python.org/3/tutorial/datastructures.html
+#
+# 2. Python documentation – Defining functions
+#    https://docs.python.org/3/tutorial/controlflow.html#defining-functions
+#
+# 3. Real Python – Python CRUD Tutorial: Working with Lists and Dictionaries
+#    https://realpython.com/python-crud-application/

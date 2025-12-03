@@ -1,20 +1,17 @@
-# ================================================================
-# PORTADA
-# ================================================================
-# Name: __________________________________________
-# Student ID (Matricula): _________________________
-# Group: __________________________________________
-#
-# File: matricula_ApellidoNombre.py
-# ================================================================
-#
-# EXECUTIVE SUMMARY
-# ------------------------------------------------
-# The Fibonacci series is a sequence where each term is the sum of the
-# previous two. Calculating the series up to n terms means generating
-# the first n values starting from 0 and 1. This program reads an integer,
-# validates it, and prints the first n Fibonacci terms. It demonstrates
-# input validation, loop usage, and structured program design.
+#nombre: Jorge Candelario Carbajal Carrizales
+#matricula: 2530205
+#grupo: IM 1-2
+
+# Resumen ejecutivo
+# --------------------------------------------------
+# Este documento presenta la resolución de seis problemas de programación usando funciones en Python.
+# Una función en Python es un bloque de código reutilizable que recibe entradas (parámetros) y puede devolver resultados (return).
+# Los parámetros son variables definidas en la función, mientras que los argumentos son los valores que se pasan al llamar la función.
+# Separar la lógica en funciones permite organizar el código, evitar repeticiones y facilitar pruebas y mantenimiento.
+# Se utilizan valores por defecto en parámetros para mayor flexibilidad y argumentos nombrados para mayor claridad.
+# El documento incluye la definición de funciones, validaciones de entradas, pruebas con casos normales, borde y de error.
+# Se aplican funciones puras cuando es posible, evitando efectos secundarios innecesarios y asegurando resultados consistentes.
+# Los problemas abordan cálculo de áreas, clasificación de calificaciones, estadísticas de listas, aplicación de descuentos, saludos personalizados y cálculo de factoriales.
 
 # ================================================================
 # PROBLEM 1: Fibonacci series generator
@@ -92,15 +89,8 @@ if __name__ == "__main__":
 # Input validation is crucial to avoid incorrect or unpredictable results.
 # Separating logic and documentation helps maintain clarity in program design.
 
-# ================================================================
-# REFERENCES
-# ================================================================
-# 1) Python Documentation - For and While Loops.
-# 2) Fibonacci sequence tutorials (RealPython, W3Schools).
-# 3) Class notes and official course materials.
-
-# ================================================================
-# GITHUB REPOSITORY URL
-# ================================================================
-# Add your repository URL here:
-# https://github.com/_________________________
+# Referencias
+# --------------------------------------------------
+# 1) Python Software Foundation. "Functions — Python 3 Documentation." https://docs.python.org/3/tutorial/controlflow.html#defining-functions
+# 2) Zelle, J. "Python Programming: An Introduction to Computer Science." 3rd Edition. Franklin, Beedle & Associates, 2017.
+# 3) W3Schools. "Python Functions." https://www.w3schools.com/python/python_functions.asp

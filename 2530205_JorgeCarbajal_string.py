@@ -1,3 +1,23 @@
+#nombre: Jorge Candelario Carbajal Carrizales
+#matricula: 2530205
+#grupo: IM 1-2
+#resumen ejecutico: # Resumen Ejecutivo
+# Un string en Python es un tipo de dato de texto que representa una secuencia de caracteres
+# y es inmutable, lo que significa que cualquier modificación genera una nueva cadena.
+# Python ofrece numerosas operaciones útiles para manejar texto: concatenación, obtención
+# de longitud, slicing para extraer subcadenas, búsqueda de patrones, reemplazo, división
+# y unión de palabras. Validar y normalizar las entradas de usuario es esencial para evitar
+# errores, por ejemplo, eliminando espacios extra, ajustando mayúsculas/minúsculas o
+# verificando formatos básicos como correos o contraseñas.
+# Este documento desarrolla seis problemas que aplican estas técnicas: formateo de nombres,
+# validación simple de correos, detección de palíndromos, estadísticas de oraciones,
+# clasificación de contraseñas y creación de etiquetas de productos. Cada problema incluye
+# descripción, entradas, salidas, validaciones y tres casos de prueba representativos.
+
+
+
+
+
 # =================== Problem 1: Full Name Formatter (Name + Initials) ===================
 # Description: Given a full name as a single string (e.g., "juan carlos tovar"), 
 # the program normalizes the text, formats it in Title Case, and displays initials in the format X.X.X.
@@ -357,3 +377,18 @@ if __name__ == "__main__":
 # Using slices and length checks allows precise control over display formats and alignment.
 # These principles are critical when generating labels, formatting names, or processing user input.
 
+# References:
+# 1) Python Software Foundation. "Built-in Types — str". En: Python Documentation.
+#    https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str
+#
+# 2) Python Software Foundation. "String Methods". En: Python Documentation.
+#    https://docs.python.org/3/library/stdtypes.html#string-methods
+#
+# 3) Sweigart, Al. "Automate the Boring Stuff with Python", 2nd Edition.
+#    No Starch Press, 2019. (Capítulo 6: Manipulating Strings)
+#
+# 4) Lutz, Mark. "Learning Python", 5th Edition.
+#    O’Reilly Media, 2013. (Sección sobre tipos de datos y strings)
+#
+# 5) Real Python. "Guide to String Manipulation in Python".
+#    https://realpython.com/python-strings/

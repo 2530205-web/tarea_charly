@@ -1,3 +1,20 @@
+#nombre: Jorge Candelario Carbajal Carrizales
+#matricula: 2530205
+#grupo: IM 1-2
+
+# Resumen Ejecutivo
+# En Python, los tipos int y float permiten representar cantidades numéricas enteras y
+# decimales para realizar cálculos aritméticos reales, mientras que los valores booleanos
+# (True/False) se generan principalmente a partir de comparaciones y sirven para tomar
+# decisiones dentro de un programa. La validación de datos de entrada es esencial para
+# evitar errores comunes, como divisiones entre cero, rangos inválidos o datos imposibles
+# de convertir. Este documento desarrolla seis problemas prácticos que integran conversión
+# de tipos, operaciones aritméticas, operadores relacionales y lógicos, así como el uso de
+# banderas booleanas para controlar la lógica. Cada problema incluye su descripción, las
+# entradas y salidas esperadas, las validaciones correspondientes y tres casos de prueba
+# que aseguran un comportamiento correcto y robusto del programa.
+
+
 
 # =================== Problem 1: Temperature Converter and Range Flag ===================
 # Description: Converts a temperature in Celsius (float) to Fahrenheit and Kelvin.
@@ -388,3 +405,20 @@ if __name__ == "__main__":
 # like discount eligibility, overtime detection, or loan approval in a clear and logical way.
 # These patterns repeat across various real-world problems such as payroll, discounts, loans,
 # and health metrics, highlighting the importance of precise data handling and logical reasoning.
+
+# References:
+# 1) Python Software Foundation. "Numeric Types — int, float, complex". 
+#    Documentación oficial de Python.
+#    https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex
+#
+# 2) Python Software Foundation. "Boolean Values — bool".
+#    https://docs.python.org/3/library/stdtypes.html#boolean-values
+#
+# 3) Python Software Foundation. "Built-in Functions" (int(), float(), round(), etc.).
+#    https://docs.python.org/3/library/functions.html
+#
+# 4) Sweigart, Al. "Automate the Boring Stuff with Python", 2nd Edition.
+#    No Starch Press, 2019. (Capítulos sobre operadores y tipos numéricos)
+#
+# 5) Lutz, Mark. "Learning Python", 5th Edition.
+#    O’Reilly Media, 2013. (Secciones sobre tipos numéricos, lógica y operadores)

@@ -1,3 +1,21 @@
+#nombre: Jorge Candelario Carbajal Carrizales
+#matricula: 2530205
+#grupo: IM 1-2
+
+# Resumen Ejecutivo
+# En Python, los bucles for y while permiten repetir instrucciones de forma controlada para
+# recorrer secuencias, generar rangos numéricos, procesar entradas repetidas y construir
+# menús interactivos. El bucle for se usa típicamente cuando se conoce de antemano la
+# cantidad de iteraciones, mientras que el bucle while es más adecuado cuando la repetición
+# depende de una condición dinámica o de un sentinela definido por el usuario. Los
+# contadores y acumuladores facilitan el seguimiento de cantidades y la suma de valores
+# durante la ejecución del bucle. Es fundamental establecer condiciones de salida claras
+# para evitar ciclos infinitos y garantizar programas seguros. Este documento aborda seis
+# problemas que aplican estas estructuras en escenarios prácticos como sumas, tablas,
+# lectura de datos, intentos de contraseña, menús y patrones impresos, incluyendo
+# validaciones, entradas, salidas y casos de prueba completos.
+
+
 # =================== Problem 1: Sum of Range with For ===================
 # Description: Calculates the sum of all integers from 1 to n (inclusive).
 # Additionally, calculates the sum of even numbers in that range using a for loop.
@@ -312,3 +330,19 @@ if __name__ == "__main__":
 # - While loops carry the risk of infinite loops if the termination condition is never met.
 # - Menus and password attempts are classic examples of while loops in practice.
 # - Nested loops are powerful for generating patterns, such as triangles, grids, or tables.
+
+# References:
+# 1) Python Software Foundation. "The for statement — Python Docs".
+#    https://docs.python.org/3/tutorial/controlflow.html#for-statements
+#
+# 2) Python Software Foundation. "The while statement — Python Docs".
+#    https://docs.python.org/3/tutorial/controlflow.html#the-while-statement
+#
+# 3) Python Software Foundation. "Built-in Functions (range, len, sum)".
+#    https://docs.python.org/3/library/functions.html
+#
+# 4) Sweigart, Al. *Automate the Boring Stuff with Python*, 2nd Edition.
+#    No Starch Press, 2019. (Capítulos sobre bucles, control de flujo y lógica repetitiva)
+#
+# 5) Lutz, Mark. *Learning Python*, 5th Edition.
+#    O’Reilly Media, 2013. (Secciones sobre for, while, iteraciones y patrones de programación)

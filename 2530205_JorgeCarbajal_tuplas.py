@@ -1,3 +1,22 @@
+#nombre: Jorge Candelario Carbajal Carrizales
+#matricula: 2530205
+#grupo: IM 1-2
+# Resumen Ejecutivo
+# En Python, las colecciones permiten almacenar y procesar conjuntos de datos de manera
+# estructurada mediante tres tipos principales: listas, tuplas y diccionarios. Las listas
+# son estructuras ordenadas y mutables, ideales para agregar, modificar o eliminar
+# elementos; las tuplas son ordenadas pero inmutables, útiles para datos que deben
+# permanecer fijos; y los diccionarios permiten asociar claves con valores para realizar
+# búsquedas rápidas y directas. Este documento presenta seis problemas que aplican estas
+# estructuras en contextos prácticos, incluyendo catálogos, registros y análisis de datos.
+# Cada problema incluye su descripción, entradas y salidas, validaciones esenciales y tres
+# casos de prueba que ilustran el uso adecuado de operaciones como indexación, inserción,
+# eliminación, actualización, ordenamiento y agregación de información.
+
+
+
+
+
 # =================== Problem 1: Shopping List Basics (List Operations) ===================
 # Description: Manage a list of products (strings) and quantities (integers):
 # - Create an initial list of products
@@ -379,3 +398,20 @@ if __name__ == "__main__":
 # - Validating entries ensures robust and predictable program behavior.
 # - Boolean flags are useful for decision-making based on conditions (e.g., is_passed, is_in_list).
 # - Patterns like CRUD operations and frequency counting recur frequently in programming tasks.
+
+# References:
+# 1) Python Software Foundation. "Built-in Types — Sequence Types (list, tuple)".
+#    Documentación oficial de Python.
+#    https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range
+#
+# 2) Python Software Foundation. "Mapping Types — dict".
+#    https://docs.python.org/3/library/stdtypes.html#mapping-types-dict
+#
+# 3) Python Software Foundation. "Built-in Functions" (len(), sum(), min(), max(), sorted()).
+#    https://docs.python.org/3/library/functions.html
+#
+# 4) Sweigart, Al. *Automate the Boring Stuff with Python*, 2nd Edition.
+#    No Starch Press, 2019. (Capítulos sobre listas, diccionarios y estructuras de datos)
+#
+# 5) Lutz, Mark. *Learning Python*, 5th Edition.
+#    O’Reilly Media, 2013. (Secciones sobre secuencias, tuplas, listas y diccionarios)

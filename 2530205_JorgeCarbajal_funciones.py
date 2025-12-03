@@ -1,3 +1,21 @@
+#nombre: Jorge Candelario Carbajal Carrizales
+#matricula: 2530205
+#grupo: IM 1-2
+
+# Resumen Ejecutivo
+# En Python, una función es una unidad de código reutilizable que encapsula una tarea y
+# permite organizar programas de forma más clara y modular. Los parámetros se definen en la
+# función y representan los valores que ésta necesita, mientras que los argumentos son los
+# datos reales que se envían al llamarla. Separar la lógica en funciones mejora la
+# legibilidad, evita duplicación de código y facilita las pruebas individuales. El valor de
+# retorno permite enviar resultados de manera controlada, lo cual es más flexible que
+# imprimir directamente dentro de la función. Este documento presenta seis problemas que
+# ilustran el uso de funciones con parámetros, valores por defecto, argumentos posicionales
+# y nombrados, además de validaciones y casos de prueba que demuestran su comportamiento en
+# contextos como cálculos geométricos, clasificación, estadísticas, descuentos, saludos y
+# factoriales.
+
+
 # =================== Problem 1: Rectangle Area and Perimeter ===================
 # Description: Defines two functions to calculate the area and perimeter of a rectangle.
 # The main code reads or defines width and height, calls the functions, and shows the results.
@@ -378,4 +396,23 @@ if __name__ == "__main__":
 # Este proyecto mostró cómo dividir el código en componentes reutilizables mejora la claridad.
 # También comprendí la importancia de validar entradas antes de procesarlas.
 
+# References
+# 1. Python Official Documentation – Functions
+#    Python Software Foundation. 
+#    https://docs.python.org/3/tutorial/controlflow.html#defining-functions
+#
+# 2. Real Python – Defining Your Own Python Function
+#    Real Python, 2023.
+#    https://realpython.com/defining-your-own-python-function/
+#
+# 3. W3Schools – Python Functions
+#    W3Schools
+#    https://www.w3schools.com/python/python_functions.asp
+#
+# 4. Think Python: How to Think Like a Computer Scientist
+#    Allen B. Downey, 2nd Edition, 2015. Chapter 4: Functions
+#
+# 5. GeeksforGeeks – Python Functions
+#    GeeksforGeeks, 2023
+#    https://www.geeksforgeeks.org/python-functions/
 
