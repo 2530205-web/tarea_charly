@@ -416,3 +416,6 @@ if __name__ == "__main__":
 #    GeeksforGeeks, 2023
 #    https://www.geeksforgeeks.org/python-functions/
 
+#repositorio
+#https://github.com/2530205-web/tarea_charly
+#https://github.com/2530205-web/tarea_charly/blob/main/2530205_JorgeCarbajal_funciones.py

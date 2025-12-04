@@ -392,3 +392,7 @@ if __name__ == "__main__":
 #
 # 5) Real Python. "Guide to String Manipulation in Python".
 #    https://realpython.com/python-strings/
+
+##repositorio
+#https://github.com/2530205-web/tarea_charly
+#https://github.com/2530205-web/tarea_charly/blob/main/2530205_JorgeCarbajal_string.py

@@ -415,3 +415,7 @@ if __name__ == "__main__":
 #
 # 5) Lutz, Mark. *Learning Python*, 5th Edition.
 #    O’Reilly Media, 2013. (Secciones sobre secuencias, tuplas, listas y diccionarios)
+
+#repositorio
+#https://github.com/2530205-web/tarea_charly
+#https://github.com/2530205-web/tarea_charly/blob/main/2530205_JorgeCarbajal_tuplas.py

@@ -94,3 +94,7 @@ if __name__ == "__main__":
 # 1) Python Software Foundation. "Functions — Python 3 Documentation." https://docs.python.org/3/tutorial/controlflow.html#defining-functions
 # 2) Zelle, J. "Python Programming: An Introduction to Computer Science." 3rd Edition. Franklin, Beedle & Associates, 2017.
 # 3) W3Schools. "Python Functions." https://www.w3schools.com/python/python_functions.asp
+
+#repositorio
+#https://github.com/2530205-web/tarea_charly
+#https://github.com/2530205-web/tarea_charly/blob/main/2530205_JorgeCarbajal_Fibonacci.py

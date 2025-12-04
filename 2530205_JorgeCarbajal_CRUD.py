@@ -246,3 +246,7 @@ if __name__ == "__main__":
 #
 # 3. Real Python – Python CRUD Tutorial: Working with Lists and Dictionaries
 #    https://realpython.com/python-crud-application/
+
+#repositorio
+#https://github.com/2530205-web/tarea_charly
+#https://github.com/2530205-web/tarea_charly/blob/main/2530205_JorgeCarbajal_CRUD.py
